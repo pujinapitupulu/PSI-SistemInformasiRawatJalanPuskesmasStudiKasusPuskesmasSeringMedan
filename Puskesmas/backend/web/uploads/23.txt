@@ -1,0 +1,12 @@
+	Algoritma Kelereng
+Untuk permasalahan kelereng tersebut terdapat 7 kelereng dengan bobot 100 gr dan 1 kelereng untuk bobt 125 gr. Untuk mendapatkan kelereng terberat akan dilakukan 2 kali penimbangan.
+-	Penimbangan Pertama
+Kesembilan kelereng dibagi kedalam 3 grup yang masing-masing berisikan 3 kelereng. Misalnya grup 1, 2 ,dan 3.
+ Saat penimbangan ambil 2 grup misalnya grup 1 dan 2 untuk kedua bagian neraca. Jika saat ditimbang grup 1 = grup 2 maka 
+kerlereng terberat otomatis berada pada grup 3. Sedangkan jika grup 1 lebih berat maka kelereng terberat berada di grup 1
+ dan jika grup 2 lebih berat maka kelereng berada di grup 2.
+-	Penimbangan Kedua
+Setelah tersisa satu grup yang diambil pada percobaan pertama. Maka bagilah masing-masing ketiga kelereng tersebut. 
+Misalnya kelereng 1, 2 dan 3. Lakukan kembali penimbangan dengan konsep yang sama dengan penimbangan pertama. 
+Jika misalnya dengan penimbangan masing-masing digunakan kelereng 1 dan 2 pada neraca dan hasilnya sama maka kelereng terberat adalah kelereng ke 3. 
+Sebaliknya jika kelereng 1 lebih berat dari kelereng 2 maka kelereng 1 yang terberat dan jika kelereng 2 lebih berat dari kelereng 1 maka kelereng 2 yang terberat.
